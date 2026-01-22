@@ -134,7 +134,7 @@ You can add recipes through Postman or any API testing tool.
 - `ingredient` - Filter by ingredient
 
 Example: `http://localhost:5000/api/recipes?cuisine=Indian&isVegetarian=true`
-
+<!-- 
 ## Project Structure
 
 recipe-explorer/
@@ -160,7 +160,7 @@ recipe-explorer/
 │   │   ├── App.css
 │   │   └── index.js
 │   └── package.json
-└── README.md
+└── README.md -->
 
 ## How I Built This
 
